@@ -1,0 +1,3 @@
+<?php
+
+    CONST SESSIONTIME = 604800;

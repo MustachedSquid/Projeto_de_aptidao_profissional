@@ -1,0 +1,121 @@
+
+#searchForm , #searchBox{
+    text-align: center;
+}
+
+#searchForm {
+    
+    height: 90%;
+    width: 93%;
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#campoPesquisa {
+    
+    background: none;
+    width: 90%;
+    height: 90%;
+    font-size: 5vmin;
+    border: none;
+}
+#campoLocal {
+    height: 90%;
+    text-align: center;
+    font-size: 10pt;
+    width: 10%;
+}
+
+#submit {
+    
+    border: none;
+    height: 65%;
+    border-radius: 25px;
+}
+
+
+#box {
+    
+    /* align search form */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* whatever else */
+    
+    background-color: #d1d2d4;
+    
+    width: 100%;
+    height: 10vmin;
+    margin: 0 auto;
+    box-shadow: 2px 4px 5px gray;
+    border-radius: 25px;
+    
+}
+
+#boxP {
+    
+    /* align search form */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    /* whatever else */
+    
+    background-color: #d1d2d4;
+    
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 2px 4px 5px gray;
+    border-radius: 25px;
+    
+}
+
+#searchContainer {
+    margin-top: 10vmin;
+}
+
+#recoTitle {
+    text-align: center;
+}
+
+#recomendations {
+    
+    
+}
+
+.aR, .recoAtiv {
+    margin: 10px;
+    display: block;
+    border: 1px white dotted;
+    
+    
+}
+
+.recoAtiv {
+    margin: 10pt;
+    width: 30%;
+    text-decoration: none;
+    
+}
+
+
+#ativImg0 {
+    
+    width: 256px;
+    height: auto;
+    text-decoration: none;
+}
+
+.aR:link { text-decoration: none; color: black;}
+
+.aR:visited { text-decoration: none; color: black;}
+
+.aR:hover { text-decoration: none; color: black; border: black dotted 1px}
+
+.aR:active { text-decoration: none; color: black;}
