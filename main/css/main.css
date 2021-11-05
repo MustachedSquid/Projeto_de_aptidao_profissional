@@ -13,3 +13,25 @@ body {
 #titulo {
     text-align: center;
 }
+
+#cb {
+    text-align: center;
+}
+.bf {
+
+    width: max-content;
+    font-size: 15pt;
+    height: 2em;
+    margin: 10px;
+    color: black;
+    background-color: white;
+    border: #ffde00 solid 5px;
+    border-radius: 5px;
+}
+
+.bf:hover {
+
+    background-color: #ffde00;
+    border: #ffde00 solid 5px;
+
+}
