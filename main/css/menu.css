@@ -1,0 +1,14 @@
+#menu {
+    width: inherit;
+    height: auto;
+    background-color: #ffde00;
+    padding: 5px;
+}
+
+#i_logo {
+    width: 64px;
+    height: auto;
+    border: white 2px solid;
+    border-radius: 50px;
+
+}

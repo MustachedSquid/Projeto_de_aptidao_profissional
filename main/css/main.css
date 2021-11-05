@@ -1,0 +1,15 @@
+body {
+    font-family: "monospace", monospace;
+    margin: 0;
+    background-color: white;
+}
+
+#centro {
+    margin: auto;
+    width: 50%;
+}
+
+
+#titulo {
+    text-align: center;
+}
